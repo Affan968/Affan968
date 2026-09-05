@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://matechhub.com">
+  <a href="https://www.matechhub.com/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Next.js+Web+Apps;Creating+Scalable+Backend+Systems;SEO+%26+Digital+Marketing+Expert;Founder+at+MATechHub.com" alt="Typing SVG" />
   </a>
 </p>
