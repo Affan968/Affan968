@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <a href="https://www.matechhub.com/">
+  <a href="https://matechhub.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Next.js+Web+Apps;Creating+Scalable+Backend+Systems;SEO+%26+Digital+Marketing+Expert;Founder+at+MATechHub.com" alt="Typing SVG" />
   </a>
 </p>
@@ -25,10 +25,10 @@
   <a href="https://matechhub.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-matechhub.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-affan-jawwad-856a8b295/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/muhammad_affan_12/" target="_blank">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:contact@matechhub.com">
